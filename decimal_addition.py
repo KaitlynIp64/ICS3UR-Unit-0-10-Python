@@ -19,7 +19,7 @@ def main():
 
     # output
     print("")
-    print("{0:,.1f} + {1:,.1f} = {2:,.1f}.".format(number_one, number_two, sum_of_num))
+    print("{0} + {1} = {2}.".format(number_one, number_two, sum_of_num))
 
     print("\nDone.")
 
